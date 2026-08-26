@@ -1,0 +1,20 @@
+# Automação de Laudos
+
+## Descrição
+
+Projeto com o objetivo de automatizar o processo de geração de laudos médicos do exame MRPA (Monitorização Residencial da Pressão Arterial), voltado para uso por cardiologistas. A proposta é agilizar e padronizar a produção dos laudos, reduzindo o trabalho manual de manipulação de planilhas e criação de documentos em PDF, minimizando erros e retrabalho.
+
+## Objetivo
+
+Automatizar a leitura e o processamento de dados provenientes de planilhas do exame MRPA, gerando laudos em PDF de forma rápida e consistente, através de uma interface simples para o cardiologista utilizar.
+
+## Funcionalidades
+
+- Upload e leitura de planilhas com os dados do exame MRPA
+- Geração automática do laudo em PDF a partir dos dados processados
+
+## Tecnologias
+
+- **JavaScript** — desenvolvimento do frontend
+- **Python** — manipulação de planilhas e geração/edição de arquivos PDF
+- **Django** — desenvolvimento do backend, com o objetivo de aprender e aplicar o framework para trabalhos futuros
