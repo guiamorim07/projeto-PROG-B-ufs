@@ -12,6 +12,11 @@ Automatizar a leitura e o processamento de dados provenientes de planilhas do ex
 
 - Upload e leitura de planilhas com os dados do exame MRPA
 - Geração automática do laudo em PDF a partir dos dados processados
+- classificacao automatica da PA
+- Detecçao de medidas invalidas
+- historico de exames pro mesmo paciente
+- graficos no laudo 
+- templates de laudo editaveis
 
 ## Tecnologias
 
